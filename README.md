@@ -1,5 +1,5 @@
 # APIRest
-API Rest, para fornecer toda informaçao relevante de Moçambique
+API Rest, e uma aplicacao RestFull que visa colmatar os problemas de falta de uma central de dados sobre as diversas areas (Educacao, Saude, Distribuicoes geograficas,etc) de Moçambique.
 
 ### A API a ser desenvolvida deve ter as seguintes funcionalidades:
 * Registar os dados das divisoes administrativas de Moçambique
